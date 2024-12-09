@@ -1,0 +1,559 @@
+Region/Country;Product;Variable;Year;Unit;Suma de Quantity
+Portugal;Uvas pasas;Exportaciones;2013;toneladas;158
+Portugal;Vino;Importaciones;2013;1000 hl;1600
+Portugal;Uvas pasas;Consumo;2013;toneladas;2500
+Portugal;Uvas pasas;Importaciones;2013;toneladas;2658
+Portugal;Vino;Exportaciones;2013;1000 hl;3041
+Portugal;Vino;Consumo;2013;1000 hl;4164
+Portugal;Uvas frescas;Exportaciones;2013;toneladas;5258
+Portugal;Vino;Producción;2013;1000 hl;6231
+Portugal;Uvas de mesa;Producción;2013;toneladas;17479
+Portugal;Uvas frescas;Importaciones;2013;toneladas;27387
+Portugal;Uvas de mesa;Consumo;2013;toneladas;34000
+Portugal;Viñedo;Superficie;2013;ha;229210
+Portugal;Uvas frescas;Producción;2013;toneladas;827745
+Portugal;Uvas pasas;Exportaciones;2014;toneladas;169
+Portugal;Vino;Importaciones;2014;1000 hl;2330
+Portugal;Uvas pasas;Consumo;2014;toneladas;2800
+Portugal;Vino;Exportaciones;2014;1000 hl;2836
+Portugal;Uvas pasas;Importaciones;2014;toneladas;2908
+Portugal;Vino;Consumo;2014;1000 hl;4289
+Portugal;Vino;Producción;2014;1000 hl;6206
+Portugal;Uvas frescas;Exportaciones;2014;toneladas;7437
+Portugal;Uvas de mesa;Producción;2014;toneladas;14435
+Portugal;Uvas frescas;Importaciones;2014;toneladas;31904
+Portugal;Uvas de mesa;Consumo;2014;toneladas;37000
+Portugal;Viñedo;Superficie;2014;ha;223550
+Portugal;Uvas frescas;Producción;2014;toneladas;818512
+Portugal;Uvas pasas;Exportaciones;2015;toneladas;104
+Portugal;Vino;Importaciones;2015;1000 hl;2161
+Portugal;Uvas pasas;Consumo;2015;toneladas;2602
+Portugal;Uvas pasas;Importaciones;2015;toneladas;2706
+Portugal;Vino;Exportaciones;2015;1000 hl;2796
+Portugal;Vino;Consumo;2015;1000 hl;4813
+Portugal;Uvas frescas;Exportaciones;2015;toneladas;5411
+Portugal;Vino;Producción;2015;1000 hl;7048
+Portugal;Uvas de mesa;Producción;2015;toneladas;19033
+Portugal;Uvas frescas;Importaciones;2015;toneladas;28589
+Portugal;Uvas de mesa;Consumo;2015;toneladas;35000
+Portugal;Viñedo;Superficie;2015;ha;203528
+Portugal;Uvas frescas;Producción;2015;toneladas;934633
+Portugal;Uvas pasas;Exportaciones;2016;toneladas;63
+Portugal;Vino;Importaciones;2016;1000 hl;1804
+Portugal;Uvas pasas;Consumo;2016;toneladas;2184
+Portugal;Uvas pasas;Importaciones;2016;toneladas;2247
+Portugal;Vino;Exportaciones;2016;1000 hl;2778
+Portugal;Vino;Consumo;2016;1000 hl;4686
+Portugal;Uvas frescas;Exportaciones;2016;toneladas;5363
+Portugal;Vino;Producción;2016;1000 hl;6010
+Portugal;Uvas de mesa;Producción;2016;toneladas;22136
+Portugal;Uvas frescas;Importaciones;2016;toneladas;30760
+Portugal;Uvas de mesa;Consumo;2016;toneladas;42000
+Portugal;Viñedo;Superficie;2016;ha;195397
+Portugal;Uvas frescas;Producción;2016;toneladas;800738
+Portugal;Uvas pasas;Exportaciones;2017;toneladas;82
+Portugal;Uvas pasas;Consumo;2017;toneladas;1965
+Portugal;Uvas pasas;Importaciones;2017;toneladas;2047
+Portugal;Vino;Importaciones;2017;1000 hl;2156
+Portugal;Vino;Exportaciones;2017;1000 hl;2993
+Portugal;Vino;Consumo;2017;1000 hl;5273
+Portugal;Uvas frescas;Exportaciones;2017;toneladas;6404
+Portugal;Vino;Producción;2017;1000 hl;6737
+Portugal;Uvas de mesa;Producción;2017;toneladas;21744
+Portugal;Uvas frescas;Importaciones;2017;toneladas;32446
+Portugal;Uvas de mesa;Consumo;2017;toneladas;45000
+Portugal;Viñedo;Superficie;2017;ha;193672
+Portugal;Uvas frescas;Producción;2017;toneladas;896089
+Portugal;Uvas pasas;Exportaciones;2018;toneladas;72
+Portugal;Vino;Importaciones;2018;1000 hl;1977
+Portugal;Uvas pasas;Consumo;2018;toneladas;1998
+Portugal;Uvas pasas;Importaciones;2018;toneladas;2068
+Portugal;Vino;Exportaciones;2018;1000 hl;2951
+Portugal;Uvas frescas;Exportaciones;2018;toneladas;3916
+Portugal;Vino;Consumo;2018;1000 hl;5073
+Portugal;Vino;Producción;2018;1000 hl;6060
+Portugal;Uvas de mesa;Producción;2018;toneladas;17586
+Portugal;Uvas frescas;Importaciones;2018;toneladas;30058
+Portugal;Uvas de mesa;Consumo;2018;toneladas;45000
+Portugal;Viñedo;Superficie;2018;ha;192292
+Portugal;Uvas frescas;Producción;2018;toneladas;802082
+Portugal;Uvas pasas;Exportaciones;2019;toneladas;72
+Portugal;Uvas pasas;Consumo;2019;toneladas;2534
+Portugal;Uvas pasas;Importaciones;2019;toneladas;2582
+Portugal;Vino;Importaciones;2019;1000 hl;2877
+Portugal;Vino;Exportaciones;2019;1000 hl;2963
+Portugal;Uvas frescas;Exportaciones;2019;toneladas;3851
+Portugal;Vino;Consumo;2019;1000 hl;5390
+Portugal;Vino;Producción;2019;1000 hl;6527
+Portugal;Uvas de mesa;Producción;2019;toneladas;18335
+Portugal;Uvas frescas;Importaciones;2019;toneladas;31220
+Portugal;Uvas de mesa;Consumo;2019;toneladas;42000
+Portugal;Viñedo;Superficie;2019;ha;194967
+Portugal;Uvas frescas;Producción;2019;toneladas;864848
+Portugal;Uvas pasas;Exportaciones;2020;toneladas;50
+Portugal;Uvas pasas;Consumo;2020;toneladas;2049
+Portugal;Uvas pasas;Importaciones;2020;toneladas;2100
+Portugal;Vino;Importaciones;2020;1000 hl;2745
+Portugal;Vino;Exportaciones;2020;1000 hl;3151
+Portugal;Uvas frescas;Exportaciones;2020;toneladas;3361
+Portugal;Vino;Consumo;2020;1000 hl;4374
+Portugal;Vino;Producción;2020;1000 hl;6418
+Portugal;Uvas de mesa;Producción;2020;toneladas;17849
+Portugal;Uvas frescas;Importaciones;2020;toneladas;31922
+Portugal;Uvas de mesa;Consumo;2020;toneladas;44000
+Portugal;Viñedo;Superficie;2020;ha;194640
+Portugal;Uvas frescas;Producción;2020;toneladas;853384
+Portugal;Uvas pasas;Exportaciones;2021;toneladas;60
+Portugal;Uvas pasas;Importaciones;2021;toneladas;2366
+Portugal;Uvas frescas;Exportaciones;2021;toneladas;2456
+Portugal;Vino;Importaciones;2021;1000 hl;2971
+Portugal;Vino;Exportaciones;2021;1000 hl;3288
+Portugal;Vino;Consumo;2021;1000 hl;5269
+Portugal;Vino;Producción;2021;1000 hl;7359
+Portugal;Uvas de mesa;Producción;2021;toneladas;19601
+Portugal;Uvas frescas;Importaciones;2021;toneladas;36237
+Portugal;Uvas de mesa;Consumo;2021;toneladas;49000
+Portugal;Viñedo;Superficie;2021;ha;194228
+Portugal;Uvas frescas;Producción;2021;toneladas;977664
+Portugal;Uvas pasas;Exportaciones;2022;toneladas;91
+Portugal;Uvas pasas;Importaciones;2022;toneladas;2358
+Portugal;Vino;Importaciones;2022;1000 hl;2872
+Portugal;Uvas frescas;Exportaciones;2022;toneladas;2880
+Portugal;Vino;Exportaciones;2022;1000 hl;3254
+Portugal;Vino;Consumo;2022;1000 hl;6058
+Portugal;Vino;Producción;2022;1000 hl;6848
+Portugal;Uvas de mesa;Producción;2022;toneladas;18595
+Portugal;Uvas frescas;Importaciones;2022;toneladas;38502
+Portugal;Uvas de mesa;Consumo;2022;toneladas;52000
+Portugal;Viñedo;Superficie;2022;ha;193443
+Portugal;Uvas frescas;Producción;2022;toneladas;898632
+Portugal;Vino;Importaciones;2023;1000 hl;2968
+Portugal;Vino;Exportaciones;2023;1000 hl;3195
+Portugal;Vino;Consumo;2023;1000 hl;5500
+Portugal;Vino;Producción;2023;1000 hl;7521
+Portugal;Viñedo;Superficie;2023;ha;182260
+Francia;Uvas pasas;Exportaciones;2022;toneladas; 1 328
+Francia;Uvas pasas;Exportaciones;2020;toneladas; 1 351
+Francia;Uvas pasas;Exportaciones;2014;toneladas; 1 400
+Francia;Uvas pasas;Exportaciones;2019;toneladas; 1 691
+Francia;Uvas pasas;Exportaciones;2018;toneladas; 1 800
+Francia;Uvas pasas;Exportaciones;2013;toneladas; 1 810
+Francia;Uvas pasas;Exportaciones;2021;toneladas; 1 938
+Francia;Uvas pasas;Exportaciones;2015;toneladas; 2 234
+Francia;Uvas pasas;Exportaciones;2017;toneladas; 2 300
+Francia;Uvas pasas;Exportaciones;2016;toneladas; 2 420
+Francia;Vino;Importaciones;2023;1000 hl; 5 952
+Francia;Vino;Importaciones;2013;1000 hl; 5 982
+Francia;Vino;Importaciones;2020;1000 hl; 6 089
+Francia;Vino;Importaciones;2021;1000 hl; 6 151
+Francia;Vino;Importaciones;2022;1000 hl; 6 238
+Francia;Vino;Importaciones;2019;1000 hl; 6 646
+Francia;Vino;Importaciones;2014;1000 hl; 6 945
+Francia;Vino;Importaciones;2018;1000 hl; 7 002
+Francia;Vino;Importaciones;2017;1000 hl; 7 315
+Francia;Vino;Importaciones;2015;1000 hl; 7 620
+Francia;Vino;Importaciones;2016;1000 hl; 7 638
+Francia;Uvas frescas;Exportaciones;2019;toneladas; 11 176
+Francia;Uvas frescas;Exportaciones;2020;toneladas; 11 282
+Francia;Uvas frescas;Exportaciones;2021;toneladas; 11 451
+Francia;Uvas frescas;Exportaciones;2022;toneladas; 11 739
+Francia;Vino;Exportaciones;2023;1000 hl; 12 667
+Francia;Vino;Exportaciones;2022;1000 hl; 13 441
+Francia;Vino;Exportaciones;2019;1000 hl; 13 517
+Francia;Vino;Exportaciones;2015;1000 hl; 13 982
+Francia;Vino;Exportaciones;2018;1000 hl; 14 188
+Francia;Uvas frescas;Exportaciones;2018;toneladas; 14 247
+Francia;Vino;Exportaciones;2021;1000 hl; 14 252
+Francia;Vino;Exportaciones;2014;1000 hl; 14 307
+Francia;Vino;Exportaciones;2020;1000 hl; 14 375
+Francia;Uvas frescas;Exportaciones;2017;toneladas; 14 480
+Francia;Vino;Exportaciones;2013;1000 hl; 14 532
+Francia;Vino;Exportaciones;2016;1000 hl; 14 539
+Francia;Vino;Exportaciones;2017;1000 hl; 14 821
+Francia;Uvas frescas;Exportaciones;2013;toneladas; 16 526
+Francia;Uvas frescas;Exportaciones;2015;toneladas; 16 630
+Francia;Uvas frescas;Exportaciones;2014;toneladas; 17 116
+Francia;Uvas frescas;Exportaciones;2016;toneladas; 17 390
+Francia;Uvas pasas;Consumo;2014;toneladas; 22 900
+Francia;Vino;Consumo;2020;1000 hl; 23 202
+Francia;Uvas pasas;Consumo;2015;toneladas; 23 358
+Francia;Uvas pasas;Consumo;2013;toneladas; 23 500
+Francia;Uvas pasas;Consumo;2016;toneladas; 24 210
+Francia;Uvas pasas;Consumo;2022;toneladas; 24 373
+Francia;Vino;Consumo;2023;1000 hl; 24 420
+Francia;Uvas pasas;Consumo;2021;toneladas; 24 700
+Francia;Vino;Consumo;2019;1000 hl; 24 714
+Francia;Uvas pasas;Importaciones;2013;toneladas; 24 718
+Francia;Vino;Consumo;2021;1000 hl; 24 870
+Francia;Uvas pasas;Importaciones;2014;toneladas; 24 873
+Francia;Vino;Consumo;2022;1000 hl; 25 028
+Francia;Uvas pasas;Importaciones;2015;toneladas; 25 599
+Francia;Uvas pasas;Consumo;2020;toneladas; 25 941
+Francia;Vino;Consumo;2018;1000 hl; 26 028
+Francia;Uvas pasas;Importaciones;2022;toneladas; 26 059
+Francia;Uvas pasas;Consumo;2017;toneladas; 26 130
+Francia;Uvas pasas;Consumo;2019;toneladas; 26 203
+Francia;Uvas pasas;Consumo;2018;toneladas; 26 240
+Francia;Vino;Consumo;2015;1000 hl; 26 452
+Francia;Uvas pasas;Importaciones;2020;toneladas; 26 482
+Francia;Uvas pasas;Importaciones;2021;toneladas; 26 683
+Francia;Uvas pasas;Importaciones;2019;toneladas; 27 196
+Francia;Vino;Consumo;2014;1000 hl; 27 545
+Francia;Vino;Consumo;2013;1000 hl; 27 770
+Francia;Uvas pasas;Importaciones;2017;toneladas; 27 928
+Francia;Uvas pasas;Importaciones;2018;toneladas; 28 183
+Francia;Vino;Consumo;2016;1000 hl; 28 290
+Francia;Uvas pasas;Importaciones;2016;toneladas; 28 497
+Francia;Vino;Consumo;2017;1000 hl; 28 634
+Francia;Uvas de mesa;Producción;2018;toneladas; 34 102
+Francia;Uvas de mesa;Producción;2017;toneladas; 34 246
+Francia;Vino;Producción;2017;1000 hl; 36 605
+Francia;Vino;Producción;2021;1000 hl; 37 643
+Francia;Uvas de mesa;Producción;2013;toneladas; 37 897
+Francia;Uvas de mesa;Producción;2021;toneladas; 38 112
+Francia;Uvas de mesa;Producción;2015;toneladas; 41 614
+Francia;Vino;Producción;2013;1000 hl; 42 134
+Francia;Vino;Producción;2019;1000 hl; 42 193
+Francia;Uvas de mesa;Producción;2014;toneladas; 43 830
+Francia;Vino;Producción;2016;1000 hl; 45 367
+Francia;Uvas de mesa;Producción;2022;toneladas; 45 726
+Francia;Vino;Producción;2022;1000 hl; 45 998
+Francia;Uvas de mesa;Producción;2016;toneladas; 46 144
+Francia;Uvas de mesa;Producción;2019;toneladas; 46 254
+Francia;Vino;Producción;2014;1000 hl; 46 534
+Francia;Vino;Producción;2020;1000 hl; 46 673
+Francia;Vino;Producción;2015;1000 hl; 47 775
+Francia;Vino;Producción;2023;1000 hl; 48 029
+Francia;Vino;Producción;2018;1000 hl; 49 186
+Francia;Uvas de mesa;Producción;2020;toneladas; 49 740
+Francia;Uvas frescas;Importaciones;2019;toneladas; 116 790
+Francia;Uvas frescas;Importaciones;2018;toneladas; 122 501
+Francia;Uvas frescas;Importaciones;2020;toneladas; 131 647
+Francia;Uvas de mesa;Consumo;2019;toneladas; 134 002
+Francia;Uvas frescas;Importaciones;2021;toneladas; 134 299
+Francia;Uvas frescas;Importaciones;2014;toneladas; 139 735
+Francia;Uvas de mesa;Consumo;2020;toneladas; 141 225
+Francia;Uvas frescas;Importaciones;2016;toneladas; 145 351
+Francia;Uvas frescas;Importaciones;2013;toneladas; 145 971
+Francia;Uvas frescas;Importaciones;2022;toneladas; 147 328
+Francia;Uvas frescas;Importaciones;2017;toneladas; 148 692
+Francia;Uvas frescas;Importaciones;2015;toneladas; 150 028
+Francia;Uvas de mesa;Consumo;2022;toneladas; 150 630
+Francia;Uvas de mesa;Consumo;2018;toneladas; 155 880
+Francia;Uvas de mesa;Consumo;2017;toneladas; 161 030
+Francia;Uvas de mesa;Consumo;2021;toneladas; 162 469
+Francia;Uvas de mesa;Consumo;2016;toneladas; 165 376
+Francia;Uvas de mesa;Consumo;2014;toneladas; 166 000
+Francia;Uvas de mesa;Consumo;2013;toneladas; 167 400
+Francia;Uvas de mesa;Consumo;2015;toneladas; 171 618
+Francia;Viñedo;Superficie;2015;ha; 784 637
+Francia;Viñedo;Superficie;2016;ha; 786 054
+Francia;Viñedo;Superficie;2017;ha; 787 681
+Francia;Viñedo;Superficie;2014;ha; 788 645
+Francia;Viñedo;Superficie;2023;ha; 792 023
+Francia;Viñedo;Superficie;2018;ha; 792 213
+Francia;Viñedo;Superficie;2013;ha; 792 930
+Francia;Viñedo;Superficie;2019;ha; 794 336
+Francia;Viñedo;Superficie;2022;ha; 795 335
+Francia;Viñedo;Superficie;2021;ha; 795 426
+Francia;Viñedo;Superficie;2020;ha; 798 642
+Francia;Uvas frescas;Producción;2017;toneladas;5 011 013
+Francia;Uvas frescas;Producción;2021;toneladas;5 073 570
+Francia;Uvas frescas;Producción;2019;toneladas;5 488 694
+Francia;Uvas frescas;Producción;2013;toneladas;5 540 789
+Francia;Uvas frescas;Producción;2020;toneladas;5 857 846
+Francia;Uvas frescas;Producción;2016;toneladas;6 027 465
+Francia;Uvas frescas;Producción;2022;toneladas;6 157 974
+Francia;Uvas frescas;Producción;2014;toneladas;6 204 868
+Francia;Uvas frescas;Producción;2015;toneladas;6 258 323
+Francia;Uvas frescas;Producción;2018;toneladas;6 267 745
+Italia;Uvas pasas;Producción;2013;toneladas;9
+Italia;Uvas pasas;Producción;2014;toneladas;9
+Italia;Uvas pasas;Producción;2015;toneladas;9
+Italia;Uvas pasas;Producción;2016;toneladas;9
+Italia;Uvas pasas;Producción;2017;toneladas;9
+Italia;Uvas pasas;Producción;2018;toneladas;9
+Italia;Uvas pasas;Producción;2019;toneladas;70
+Italia;Uvas pasas;Producción;2020;toneladas;70
+Italia;Uvas pasas;Producción;2021;toneladas;70
+Italia;Uvas pasas;Producción;2022;toneladas;70
+Italia;Uvas pasas;Exportaciones;2014;toneladas;521
+Italia;Uvas pasas;Exportaciones;2019;toneladas;728
+Italia;Uvas pasas;Exportaciones;2018;toneladas;792
+Italia;Uvas pasas;Exportaciones;2013;toneladas;1083
+Italia;Uvas pasas;Exportaciones;2021;toneladas;1366
+Italia;Uvas pasas;Exportaciones;2017;toneladas;1391
+Italia;Uvas pasas;Exportaciones;2020;toneladas;1473
+Italia;Vino;Importaciones;2019;1000 hl;1552
+Italia;Vino;Importaciones;2020;1000 hl;1634
+Italia;Vino;Importaciones;2016;1000 hl;1706
+Italia;Vino;Importaciones;2018;1000 hl;1895
+Italia;Vino;Importaciones;2022;1000 hl;2012
+Italia;Vino;Importaciones;2023;1000 hl;2025
+Italia;Uvas pasas;Exportaciones;2016;toneladas;2041
+Italia;Vino;Importaciones;2017;1000 hl;2076
+Italia;Uvas pasas;Exportaciones;2015;toneladas;2248
+Italia;Uvas pasas;Exportaciones;2022;toneladas;2323
+Italia;Vino;Importaciones;2013;1000 hl;2692
+Italia;Vino;Importaciones;2014;1000 hl;2753
+Italia;Vino;Importaciones;2015;1000 hl;2854
+Italia;Vino;Importaciones;2021;1000 hl;3108
+Italia;Uvas pasas;Consumo;2022;toneladas;16126
+Italia;Uvas pasas;Consumo;2020;toneladas;17447
+Italia;Uvas frescas;Importaciones;2022;toneladas;17902
+Italia;Uvas pasas;Importaciones;2022;toneladas;18379
+Italia;Uvas frescas;Importaciones;2021;toneladas;18707
+Italia;Uvas pasas;Importaciones;2020;toneladas;18851
+Italia;Uvas frescas;Importaciones;2020;toneladas;18869
+Italia;Uvas pasas;Consumo;2015;toneladas;18879
+Italia;Uvas frescas;Importaciones;2013;toneladas;19100
+Italia;Vino;Consumo;2014;1000 hl;19500
+Italia;Vino;Exportaciones;2018;1000 hl;19601
+Italia;Uvas frescas;Importaciones;2018;toneladas;19641
+Italia;Vino;Exportaciones;2015;1000 hl;20016
+Italia;Vino;Exportaciones;2013;1000 hl;20254
+Italia;Uvas pasas;Consumo;2013;toneladas;20383
+Italia;Vino;Exportaciones;2014;1000 hl;20424
+Italia;Uvas pasas;Consumo;2014;toneladas;20546
+Italia;Vino;Exportaciones;2016;1000 hl;20636
+Italia;Vino;Exportaciones;2020;1000 hl;20685
+Italia;Uvas pasas;Consumo;2018;toneladas;20694
+Italia;Vino;Consumo;2013;1000 hl;20800
+Italia;Uvas pasas;Consumo;2019;toneladas;21005
+Italia;Uvas pasas;Importaciones;2014;toneladas;21058
+Italia;Uvas pasas;Consumo;2016;toneladas;21078
+Italia;Uvas pasas;Importaciones;2015;toneladas;21119
+Italia;Uvas pasas;Consumo;2017;toneladas;21207
+Italia;Vino;Exportaciones;2019;1000 hl;21358
+Italia;Uvas frescas;Importaciones;2019;toneladas;21366
+Italia;Vino;Exportaciones;2023;1000 hl;21366
+Italia;Vino;Consumo;2015;1000 hl;21400
+Italia;Vino;Exportaciones;2017;1000 hl;21447
+Italia;Uvas pasas;Importaciones;2018;toneladas;21476
+Italia;Uvas pasas;Importaciones;2013;toneladas;21500
+Italia;Uvas pasas;Consumo;2021;toneladas;21559
+Italia;Vino;Exportaciones;2022;1000 hl;21577
+Italia;Uvas pasas;Importaciones;2019;toneladas;21663
+Italia;Uvas frescas;Importaciones;2014;toneladas;21700
+Italia;Vino;Consumo;2023;1000 hl;21800
+Italia;Vino;Exportaciones;2021;1000 hl;22042
+Italia;Vino;Consumo;2022;1000 hl;22352
+Italia;Vino;Consumo;2016;1000 hl;22400
+Italia;Vino;Consumo;2018;1000 hl;22400
+Italia;Uvas pasas;Importaciones;2017;toneladas;22589
+Italia;Vino;Consumo;2017;1000 hl;22600
+Italia;Vino;Consumo;2019;1000 hl;22600
+Italia;Uvas pasas;Importaciones;2021;toneladas;22856
+Italia;Uvas pasas;Importaciones;2016;toneladas;23111
+Italia;Uvas frescas;Importaciones;2016;toneladas;23282
+Italia;Uvas frescas;Importaciones;2017;toneladas;23544
+Italia;Uvas frescas;Importaciones;2015;toneladas;24007
+Italia;Vino;Consumo;2020;1000 hl;24200
+Italia;Vino;Consumo;2021;1000 hl;24200
+Italia;Vino;Producción;2023;1000 hl;38291
+Italia;Vino;Producción;2017;1000 hl;42500
+Italia;Vino;Producción;2014;1000 hl;44229
+Italia;Vino;Producción;2019;1000 hl;47533
+Italia;Vino;Producción;2020;1000 hl;49066
+Italia;Vino;Producción;2022;1000 hl;49843
+Italia;Vino;Producción;2015;1000 hl;49996
+Italia;Vino;Producción;2021;1000 hl;50232
+Italia;Vino;Producción;2016;1000 hl;50920
+Italia;Vino;Producción;2013;1000 hl;54029
+Italia;Vino;Producción;2018;1000 hl;54783
+Italia;Uvas de mesa;Consumo;2022;toneladas;411362
+Italia;Uvas frescas;Exportaciones;2019;toneladas;429270
+Italia;Uvas de mesa;Consumo;2021;toneladas;435048
+Italia;Uvas frescas;Exportaciones;2014;toneladas;447467
+Italia;Uvas de mesa;Consumo;2017;toneladas;451489
+Italia;Uvas frescas;Exportaciones;2022;toneladas;452055
+Italia;Uvas de mesa;Consumo;2020;toneladas;455912
+Italia;Uvas frescas;Exportaciones;2015;toneladas;461851
+Italia;Uvas frescas;Exportaciones;2018;toneladas;465204
+Italia;Uvas frescas;Exportaciones;2021;toneladas;466505
+Italia;Uvas frescas;Exportaciones;2020;toneladas;474209
+Italia;Uvas de mesa;Consumo;2014;toneladas;483446
+Italia;Uvas frescas;Exportaciones;2016;toneladas;484633
+Italia;Uvas de mesa;Consumo;2019;toneladas;490578
+Italia;Uvas frescas;Exportaciones;2017;toneladas;494111
+Italia;Uvas de mesa;Consumo;2018;toneladas;495248
+Italia;Uvas de mesa;Consumo;2013;toneladas;500000
+Italia;Uvas de mesa;Consumo;2016;toneladas;500801
+Italia;Uvas de mesa;Consumo;2015;toneladas;504189
+Italia;Uvas frescas;Exportaciones;2013;toneladas;509966
+Italia;Viñedo;Superficie;2015;ha;681783
+Italia;Viñedo;Superficie;2014;ha;689839
+Italia;Viñedo;Superficie;2016;ha;692726
+Italia;Viñedo;Superficie;2017;ha;699393
+Italia;Viñedo;Superficie;2018;ha;704738
+Italia;Viñedo;Superficie;2013;ha;705456
+Italia;Viñedo;Superficie;2019;ha;713837
+Italia;Viñedo;Superficie;2022;ha;718198
+Italia;Viñedo;Superficie;2020;ha;718724
+Italia;Viñedo;Superficie;2023;ha;719955
+Italia;Viñedo;Superficie;2021;ha;721579
+Italia;Uvas de mesa;Producción;2022;toneladas;961540
+Italia;Uvas de mesa;Producción;2017;toneladas;977858
+Italia;Uvas de mesa;Producción;2019;toneladas;978343
+Italia;Uvas de mesa;Producción;2021;toneladas;1005552
+Italia;Uvas de mesa;Producción;2018;toneladas;1028207
+Italia;Uvas de mesa;Producción;2014;toneladas;1037700
+Italia;Uvas de mesa;Producción;2020;toneladas;1039842
+Italia;Uvas de mesa;Producción;2016;toneladas;1057543
+Italia;Uvas de mesa;Producción;2015;toneladas;1060300
+Italia;Uvas de mesa;Producción;2013;toneladas;1108300
+Italia;Uvas frescas;Producción;2019;toneladas;6194720
+Italia;Uvas frescas;Producción;2020;toneladas;6384127
+Italia;Uvas frescas;Producción;2021;toneladas;6444103
+Italia;Uvas frescas;Producción;2022;toneladas;6444103
+Italia;Uvas frescas;Producción;2017;toneladas;6883022
+Italia;Uvas frescas;Producción;2014;toneladas;6894368
+Italia;Uvas frescas;Producción;2013;toneladas;8010344
+Italia;Uvas frescas;Producción;2015;toneladas;8169713
+Italia;Uvas frescas;Producción;2016;toneladas;8393927
+Italia;Uvas frescas;Producción;2018;toneladas;8646875
+España;Uvas pasas;Producción;2022;toneladas;179
+España;Uvas pasas;Producción;2019;toneladas;200
+España;Uvas pasas;Producción;2021;toneladas;224
+España;Uvas pasas;Producción;2018;toneladas;225
+España;Uvas pasas;Producción;2020;toneladas;250
+España;Uvas pasas;Producción;2017;toneladas;275
+España;Uvas pasas;Producción;2014;toneladas;288
+España;Uvas pasas;Producción;2015;toneladas;313
+España;Vino;Importaciones;2015;1000 hl;461
+España;Uvas pasas;Producción;2016;toneladas;484
+España;Vino;Importaciones;2014;1000 hl;485
+España;Vino;Consumo;2013;1000 hl; 9 820
+España;Vino;Importaciones;2023;1000 hl;542
+España;Vino;Importaciones;2017;1000 hl;561
+España;Vino;Importaciones;2022;1000 hl;581
+España;Vino;Importaciones;2019;1000 hl;584
+España;Vino;Importaciones;2016;1000 hl;614
+España;Vino;Importaciones;2021;1000 hl;679
+España;Uvas pasas;Exportaciones;2016;toneladas;682
+España;Uvas pasas;Consumo;2013;toneladas; 16 123
+España;Uvas pasas;Exportaciones;2015;toneladas;779
+España;Uvas pasas;Exportaciones;2014;toneladas;935
+España;Vino;Importaciones;2018;1000 hl;941
+España;Uvas pasas;Exportaciones;2017;toneladas;970
+España;Uvas pasas;Exportaciones;2018;toneladas;979
+España;Vino;Importaciones;2020;1000 hl;982
+España;Uvas pasas;Exportaciones;2022;toneladas; 1 357
+España;Uvas pasas;Exportaciones;2021;toneladas; 1 404
+España;Uvas de mesa;Consumo;2013;toneladas; 141 970
+España;Uvas pasas;Exportaciones;2020;toneladas; 2 213
+España;Uvas pasas;Exportaciones;2019;toneladas; 2 333
+España;Vino;Consumo;2020;1000 hl; 9 218
+España;Uvas pasas;Consumo;2021;toneladas; 9 528
+España;Vino;Consumo;2022;1000 hl; 9 636
+España;Vino;Consumo;2023;1000 hl; 9 798
+España;Vino;Consumo;2014;1000 hl; 9 810
+España;Vino;Consumo;2015;1000 hl; 9 810
+España;Uvas pasas;Exportaciones;2013;toneladas;690
+España;Uvas pasas;Consumo;2020;toneladas; 10 144
+España;Vino;Consumo;2019;1000 hl; 10 222
+España;Vino;Consumo;2021;1000 hl; 10 311
+España;Vino;Consumo;2017;1000 hl; 10 373
+España;Vino;Consumo;2016;1000 hl; 10 578
+España;Vino;Consumo;2018;1000 hl; 10 741
+España;Uvas pasas;Importaciones;2021;toneladas; 11 286
+España;Uvas pasas;Importaciones;2020;toneladas; 11 306
+España;Uvas pasas;Importaciones;2022;toneladas; 11 647
+España;Uvas pasas;Consumo;2022;toneladas; 12 966
+España;Uvas pasas;Consumo;2019;toneladas; 13 972
+España;Uvas pasas;Consumo;2018;toneladas; 14 950
+España;Uvas pasas;Consumo;2015;toneladas; 15 107
+España;Uvas pasas;Importaciones;2015;toneladas; 15 573
+España;Uvas pasas;Importaciones;2018;toneladas; 15 608
+España;Uvas pasas;Consumo;2014;toneladas; 15 754
+España;Uvas pasas;Importaciones;2019;toneladas; 16 067
+España;Vino;Exportaciones;2013;1000 hl; 18 450
+España;Uvas pasas;Consumo;2017;toneladas; 16 235
+España;Uvas frescas;Exportaciones;2013;toneladas; 143 190
+España;Uvas pasas;Importaciones;2014;toneladas; 16 400
+España;Uvas pasas;Importaciones;2017;toneladas; 17 362
+España;Vino;Importaciones;2013;1000 hl; 1 603
+España;Uvas pasas;Consumo;2016;toneladas; 19 637
+España;Uvas pasas;Importaciones;2016;toneladas; 19 835
+España;Vino;Exportaciones;2018;1000 hl; 20 308
+España;Vino;Exportaciones;2020;1000 hl; 20 659
+España;Vino;Exportaciones;2023;1000 hl; 20 815
+España;Vino;Exportaciones;2022;1000 hl; 21 437
+España;Vino;Exportaciones;2019;1000 hl; 21 844
+España;Vino;Exportaciones;2016;1000 hl; 22 626
+España;Vino;Exportaciones;2014;1000 hl; 23 088
+España;Vino;Exportaciones;2017;1000 hl; 23 311
+España;Vino;Exportaciones;2021;1000 hl; 23 696
+España;Vino;Exportaciones;2015;1000 hl; 24 395
+España;Vino;Producción;2023;1000 hl; 28 326
+España;Vino;Producción;2017;1000 hl; 32 480
+España;Vino;Producción;2019;1000 hl; 33 676
+España;Uvas frescas;Importaciones;2016;toneladas; 33 837
+España;Uvas frescas;Importaciones;2015;toneladas; 34 542
+España;Uvas pasas;Importaciones;2013;toneladas; 16 310
+España;Vino;Producción;2021;1000 hl; 35 304
+España;Vino;Producción;2022;1000 hl; 35 781
+España;Vino;Producción;2015;1000 hl; 37 703
+España;Vino;Producción;2014;1000 hl; 39 494
+España;Vino;Producción;2016;1000 hl; 39 970
+España;Vino;Producción;2020;1000 hl; 40 949
+España;Uvas frescas;Importaciones;2014;toneladas; 43 861
+España;Vino;Producción;2018;1000 hl; 44 933
+España;Uvas frescas;Importaciones;2013;toneladas; 34 660
+España;Uvas frescas;Importaciones;2019;toneladas; 53 130
+España;Uvas frescas;Importaciones;2017;toneladas; 58 071
+España;Uvas frescas;Importaciones;2020;toneladas; 59 898
+España;Uvas frescas;Importaciones;2018;toneladas; 64 174
+España;Uvas frescas;Importaciones;2022;toneladas; 64 232
+España;Uvas frescas;Importaciones;2021;toneladas; 69 700
+España;Uvas de mesa;Consumo;2022;toneladas; 92 423
+España;Uvas de mesa;Consumo;2014;toneladas; 129 220
+España;Uvas pasas;Producción;2013;toneladas;503
+España;Vino;Producción;2013;1000 hl; 45 308
+España;Uvas frescas;Exportaciones;2014;toneladas; 147 640
+España;Uvas de mesa;Consumo;2016;toneladas; 147 940
+España;Uvas frescas;Exportaciones;2015;toneladas; 149 151
+España;Uvas frescas;Exportaciones;2017;toneladas; 149 583
+España;Uvas frescas;Exportaciones;2016;toneladas; 156 743
+España;Uvas frescas;Exportaciones;2019;toneladas; 161 394
+España;Uvas de mesa;Consumo;2015;toneladas; 165 728
+España;Uvas de mesa;Consumo;2018;toneladas; 165 904
+España;Uvas frescas;Exportaciones;2018;toneladas; 175 378
+España;Uvas de mesa;Consumo;2017;toneladas; 184 246
+España;Uvas de mesa;Consumo;2021;toneladas; 188 138
+España;Uvas frescas;Exportaciones;2022;toneladas; 190 496
+España;Uvas de mesa;Consumo;2020;toneladas; 192 394
+España;Uvas frescas;Exportaciones;2020;toneladas; 199 748
+España;Uvas frescas;Exportaciones;2021;toneladas; 200 739
+España;Uvas de mesa;Consumo;2019;toneladas; 228 594
+España;Uvas de mesa;Producción;2014;toneladas; 233 000
+España;Uvas de mesa;Producción;2013;toneladas; 250 500
+España;Uvas de mesa;Producción;2017;toneladas; 266 223
+España;Uvas de mesa;Producción;2016;toneladas; 271 637
+España;Uvas de mesa;Producción;2018;toneladas; 272 796
+España;Uvas de mesa;Producción;2015;toneladas; 280 700
+España;Uvas de mesa;Producción;2022;toneladas; 292 394
+España;Uvas de mesa;Producción;2020;toneladas; 297 763
+España;Uvas de mesa;Producción;2021;toneladas; 307 496
+España;Uvas de mesa;Producción;2019;toneladas; 331 458
+España;Viñedo;Superficie;2023;ha; 945 061
+España;Viñedo;Superficie;2022;ha; 954 724
+España;Viñedo;Superficie;2020;ha; 961 096
+España;Viñedo;Superficie;2021;ha; 962 531
+España;Viñedo;Superficie;2019;ha; 966 442
+España;Viñedo;Superficie;2017;ha; 968 100
+España;Viñedo;Superficie;2018;ha; 971 585
+España;Uvas frescas;Producción;2013;toneladas;7 382 426
+España;Viñedo;Superficie;2015;ha; 974 428
+España;Viñedo;Superficie;2014;ha; 974 869
+España;Viñedo;Superficie;2016;ha; 975 270
+España;Uvas frescas;Producción;2017;toneladas;5 038 038
+España;Uvas frescas;Producción;2021;toneladas;5 265 000
+España;Uvas frescas;Producción;2019;toneladas;5 423 703
+España;Uvas frescas;Producción;2022;toneladas;5 966 094
+España;Uvas frescas;Producción;2015;toneladas;6 011 852
+España;Uvas frescas;Producción;2014;toneladas;6 145 752
+España;Uvas frescas;Producción;2016;toneladas;6 319 470
+España;Uvas frescas;Producción;2020;toneladas;6 495 377
+España;Uvas frescas;Producción;2018;toneladas;6 868 269
+España;Viñedo;Superficie;2013;ha; 973 004
